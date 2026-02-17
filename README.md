@@ -23,7 +23,7 @@ To predict machine failure before breakdown using sensor data.
 - Stratified 5-fold Cross Validation
 - GridSearchCV for hyperparameter tuning
 - ROC-AUC evaluation
-- SHAP explainability
+
 
 ## Results
 - ROC-AUC: ~0.90+
